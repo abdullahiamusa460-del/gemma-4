@@ -1,0 +1,7 @@
+{
+  "name": "Gemma 4 AI Assistant",
+  "description": "A simple, fast AI web app powered by Google Gemma 4 with local Ollama fallback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
